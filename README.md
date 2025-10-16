@@ -50,7 +50,8 @@ I’m currently studying **Web Development at HackYourFuture** and **Data Analyt
   <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/b54521246d83a29ab7a394ac5c47e9f70d82b058/world-creativity-and-innovation-day.gif" alt="Creativity Animation" width="30"  />
   <strong> What drives me </strong> 
 </h3> 
-<em>“Technology should serve people.”</em> 
+<p><em>“Technology should serve people.”</em></p> 
+
 I’m passionate about connecting **data, design, and ethics**, and believe diverse perspectives create better technology.  
 Collaboration, empathy, and curiosity guide my learning journey every day.
 
