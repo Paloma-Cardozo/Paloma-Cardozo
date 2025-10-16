@@ -1,37 +1,71 @@
-# 🌟 Paloma Cardozo 
-# Web Development Learner | Tech Transitioner with Legal Background
+<h2 align="center">🌟 Paloma Cardozo 🌟</h2> 
+<h4 align="center">Web Development Learner | Legal & Data Professional in Tech</h4> 
 
-👋 Welcome to my GitHub!
+<p align="center">
+  <a href="https://paloma-cardozo.github.io/dev-portfolio" target="_blank">Portfolio</a> |
+  <a href="https://www.linkedin.com/in/paloma-cardozo" target="_blank">LinkedIn</a> |
+  <a href="https://codepen.io/Paloma-Cardozo" target="_blank">CodePen</a> |
+  <a href="mailto:palomacardozo88@gmail.com">Email</a>
+</p>
 
-I’m a tech learner transitioning from a career in law and compliance into web development, digital tools, and cybersecurity principles. Currently building my skills through self-learning and projects. My focus is on creating accessible, ethical, and user-centered digital solutions, using technology to support transparency, equity, and social progress.
+---
 
-### 👩‍💻 What I’m working on:
+👋 **Welcome to my GitHub!**
 
-- Building accessible web projects using **HTML, CSS, JavaScript**
-- Strengthening my skills in **Git, GitHub, and version control**
+I’m a lifelong learner moving from the world of law, compliance, and human rights into technology, where data, design, and ethics meet.
+I’m currently studying **Web Development at HackYourFuture** and **Data Analytics at ReDI School**, building digital skills to create tools that make information accessible, transparent, and meaningful.
+
+---
+
+### 👩‍💻 What I’m working on
+
+- Designing small tools and visualizations that connect tech with real-world purpose  
+- Building accessible and ethical web projects using **HTML, CSS and JavaScript**
+- Strengthening my version control skills with **Git and GitHub**
+- Practicing **Python** to understand data, logic, and automation
+- Learning about **digital risk and cybersecurity principles**
 - Exploring fundamentals of **responsive design**
-- Practicing **Python** to  understand data flows and backend logic
-- Learning about **digital risk and cybersecurity principles** 
+
+---
 
 ### 💡 What drives me:
+> “Technology should serve people.”
 
-- A deep commitment to **responsible and inclusive technology**
-- A belief that **interdisciplinary backgrounds and perspectives** enrich innovation and problem-solving
-- A love for **collaborative learning** and working across cultures and contexts
+I’m passionate about connecting **data, design, and ethics**, and believe diverse perspectives create better technology.  
+Collaboration, empathy, and curiosity guide my learning journey every day.
+
+---
 
 ### 🎯 Goals:
 
-- Contribute to **real-world tech projects** in teams that value trust, diversity, and social impact
-- Support organizations in building **responsible, secure, and user-focused solutions**
-- Grow into roles that blend **technical insight with analytical and human-centered design**
-- Share knowledge and learn from the **open-source and cybersecurity communities**
+- Contribute to meaningful tech projects that combine trust, transparency, and creativity
+- Support teams and organizations in building secure, user-centered digital solutions
+- Keep growing in roles that merge technical insight with analytical and human perspectives
+- Share knowledge openly and learn from diverse, global communities
+
+---
 
 ### 📚 Background:  
 
-- 10+ years as a **legal and compliance professional** in the public sector, developing strong analytical, documentation, and risk assessment skills
-- Graduate of ReDI School of Digital Integration in **Front-End Development**
-- Self-learning **web technologies and cybersecurity foundations** with discipline and curiosity
-- Now fully focused on a **career transition into tech** 🚀
+- 10+ years as a **legal and compliance professional**, specializing in risk assessment and ethical governance
+- Currently deepening skills in **Web Development** and **Data Analytics**  
+- Experienced in cross-cultural communication, data ethics, and social impact
+
+### 🛠️ Tech & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white" />
+</p>
+
+---
 
 ### 🌐 Languages:
 
@@ -39,5 +73,7 @@ I’m a tech learner transitioning from a career in law and compliance into web 
 - English & Portuguese (professional)
 - Danish (intermediate)
 
-Let’s connect and explore how tech and purpose can work hand in hand 🤝  
-Thanks for stopping by!
+---
+
+Exploring how code, data, and ethics can work together to make systems more human. 🤝  
+<p align="center">🤝 Thanks for stopping by!</p>
