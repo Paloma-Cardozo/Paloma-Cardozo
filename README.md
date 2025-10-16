@@ -18,7 +18,7 @@
 
 ---
 
-**Welcome to my GitHub!**
+### Welcome to my GitHub!
 
 I’m a lifelong learner moving from the world of law, compliance, and human rights into technology, where data, design, and ethics meet.
 I’m currently studying **Web Development at HackYourFuture** and **Data Analytics at ReDI School**, building digital skills to create tools that make information accessible, transparent, and meaningful.
@@ -87,5 +87,5 @@ Collaboration, empathy, and curiosity guide my learning journey every day.
 
 <p align="center">
   <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/589fccf0f618d2b4224d50d8494fafb3ae0a7319/chatbot.gif" alt="Signature Animation" width="100" /><br/>
-  <em>Exploring how code, data, and ethics can work together to make systems more human.</em> Thanks for stopping by!
+  <em>Exploring how code, data, and ethics can work together to make systems more human.</em> 
 </p>
