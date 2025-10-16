@@ -11,7 +11,7 @@
   <a href="https://codepen.io/Paloma-Cardozo" target="_blank">
     <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen Badge"/>
   </a>
-  <a href="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/main/files/My_CV.pdf" target="_blank">
+  <a href="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/main/files/My CV.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20CV-6B8E23?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV Badge"/>
   </a>
 </p>
