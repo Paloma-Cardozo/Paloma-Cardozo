@@ -1,7 +1,7 @@
 <h2 align="center">
-  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/28d4e14ec9dc4b4abab8751d0e2e03749daab677/fireworks.gif" alt="Signature Animation" width="30" />
+  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/28d4e14ec9dc4b4abab8751d0e2e03749daab677/fireworks.gif" alt="Fireworks Animation" width="40" />
   <strong> Paloma Cardozo </strong> 
-  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/28d4e14ec9dc4b4abab8751d0e2e03749daab677/fireworks.gif" alt="Signature Animation" width="30" />
+  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/28d4e14ec9dc4b4abab8751d0e2e03749daab677/fireworks.gif" alt="Fireworks Animation" width="40" />
 </h2>
 <h4 align="center">Web Development Learner | Legal & Data Professional in Tech</h4> 
 
@@ -29,7 +29,10 @@ I’m currently studying **Web Development at HackYourFuture** and **Data Analyt
 
 ---
 
-### 👩‍💻 What I’m working on
+<h3>
+  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/b54521246d83a29ab7a394ac5c47e9f70d82b058/worker.gif" alt="Worker Animation" width="30" />
+  <strong> What I’m working on </strong> 
+</h3>
 
 - Designing small tools and visualizations that connect tech with real-world purpose  
 - Building accessible and ethical web projects using **HTML, CSS and JavaScript**
@@ -40,7 +43,10 @@ I’m currently studying **Web Development at HackYourFuture** and **Data Analyt
 
 ---
 
-### 💡 What drives me:
+<h3>
+  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/b54521246d83a29ab7a394ac5c47e9f70d82b058/world-creativity-and-innovation-day.gif" alt="Creativity Animation" width="30" />
+  <strong> What drives me </strong> 
+</h3> 
 > “Technology should serve people.”
 
 I’m passionate about connecting **data, design, and ethics**, and believe diverse perspectives create better technology.  
@@ -48,7 +54,10 @@ Collaboration, empathy, and curiosity guide my learning journey every day.
 
 ---
 
-### 🎯 Goals:
+<h3>
+  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/b54521246d83a29ab7a394ac5c47e9f70d82b058/success.gif" alt="Success Animation" width="30" />
+  <strong> Goals </strong> 
+</h3> 
 
 - Contribute to meaningful tech projects that combine trust, transparency, and creativity
 - Support teams and organizations in building secure, user-centered digital solutions
@@ -57,13 +66,21 @@ Collaboration, empathy, and curiosity guide my learning journey every day.
 
 ---
 
-### 📚 Background:  
+<h3>
+  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/b54521246d83a29ab7a394ac5c47e9f70d82b058/experience.gif" alt="Experience Animation" width="30" />
+  <strong> Background </strong> 
+</h3> 
 
 - 10+ years as a **legal and compliance professional**, specializing in risk assessment and ethical governance
 - Currently deepening skills in **Web Development** and **Data Analytics**  
 - Experienced in cross-cultural communication, data ethics, and social impact
 
-### 🛠️ Tech & Tools
+---
+
+<h3>
+  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/b54521246d83a29ab7a394ac5c47e9f70d82b058/graphics-software.gif" alt="Software Animation" width="30" />
+  <strong> Tech & Tools </strong> 
+</h3> 
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -81,7 +98,10 @@ Collaboration, empathy, and curiosity guide my learning journey every day.
 
 ---
 
-### 🌐 Languages:
+<h3>
+  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/b54521246d83a29ab7a394ac5c47e9f70d82b058/language.gif" alt="Language Animation" width="30" />
+  <strong> Languages </strong> 
+</h3> 
 
 - Spanish (native)
 - English & Portuguese (professional)
