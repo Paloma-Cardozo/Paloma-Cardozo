@@ -1,7 +1,7 @@
 <h2 align="center">
-  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/28d4e14ec9dc4b4abab8751d0e2e03749daab677/fireworks.gif" alt="Fireworks Animation" width="45"  style="vertical-align: middle; display: inline-block;"/>
+  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/28d4e14ec9dc4b4abab8751d0e2e03749daab677/fireworks.gif" alt="Fireworks Animation" width="45"  />
   <strong> Paloma Cardozo </strong> 
-  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/28d4e14ec9dc4b4abab8751d0e2e03749daab677/fireworks.gif" alt="Fireworks Animation" width="45"  style="vertical-align: middle; display: inline-block;"/>
+  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/28d4e14ec9dc4b4abab8751d0e2e03749daab677/fireworks.gif" alt="Fireworks Animation" width="45"  />
 </h2>
 <h4 align="center">Web Development Learner | Legal & Data Professional in Tech</h4> 
 
@@ -23,7 +23,7 @@
 ---
 
 <h3>
-  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/547801a0deaa599541f9190aa6920e09395a5043/blogger.gif" alt="Blogger Animation" width="30"  style="vertical-align: middle; display: inline-block;"/>
+  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/547801a0deaa599541f9190aa6920e09395a5043/blogger.gif" alt="Blogger Animation" width="30"  />
   <strong> Welcome to my GitHub </strong> 
 </h3> 
 
@@ -33,7 +33,7 @@ I’m currently studying **Web Development at HackYourFuture** and **Data Analyt
 ---
 
 <h3>
-  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/b54521246d83a29ab7a394ac5c47e9f70d82b058/worker.gif" alt="Worker Animation" width="30"  style="vertical-align: middle; display: inline-block;"/>
+  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/b54521246d83a29ab7a394ac5c47e9f70d82b058/worker.gif" alt="Worker Animation" width="30"  />
   <strong> What I’m working on </strong> 
 </h3>
 
@@ -47,7 +47,7 @@ I’m currently studying **Web Development at HackYourFuture** and **Data Analyt
 ---
 
 <h3>
-  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/b54521246d83a29ab7a394ac5c47e9f70d82b058/world-creativity-and-innovation-day.gif" alt="Creativity Animation" width="30"  style="vertical-align: middle; display: inline-block;"/>
+  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/b54521246d83a29ab7a394ac5c47e9f70d82b058/world-creativity-and-innovation-day.gif" alt="Creativity Animation" width="30"  />
   <strong> What drives me </strong> 
 </h3> 
 > “Technology should serve people.”
@@ -58,7 +58,7 @@ Collaboration, empathy, and curiosity guide my learning journey every day.
 ---
 
 <h3>
-  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/b54521246d83a29ab7a394ac5c47e9f70d82b058/success.gif" alt="Success Animation" width="30"  style="vertical-align: middle; display: inline-block;"/>
+  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/b54521246d83a29ab7a394ac5c47e9f70d82b058/success.gif" alt="Success Animation" width="30"  />
   <strong> Goals </strong> 
 </h3> 
 
@@ -70,7 +70,7 @@ Collaboration, empathy, and curiosity guide my learning journey every day.
 ---
 
 <h3>
-  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/b54521246d83a29ab7a394ac5c47e9f70d82b058/experience.gif" alt="Experience Animation" width="30"  style="vertical-align: middle; display: inline-block;"/>
+  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/b54521246d83a29ab7a394ac5c47e9f70d82b058/experience.gif" alt="Experience Animation" width="30"  />
   <strong> Background </strong> 
 </h3> 
 
@@ -81,7 +81,7 @@ Collaboration, empathy, and curiosity guide my learning journey every day.
 ---
 
 <h3>
-  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/b54521246d83a29ab7a394ac5c47e9f70d82b058/graphics-software.gif" alt="Software Animation" width="30"  style="vertical-align: middle; display: inline-block;"/>
+  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/b54521246d83a29ab7a394ac5c47e9f70d82b058/graphics-software.gif" alt="Software Animation" width="30"  />
   <strong> Tech & Tools </strong> 
 </h3> 
 
@@ -102,7 +102,7 @@ Collaboration, empathy, and curiosity guide my learning journey every day.
 ---
 
 <h3>
-  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/b54521246d83a29ab7a394ac5c47e9f70d82b058/language.gif" alt="Language Animation" width="30"  style="vertical-align: middle; display: inline-block;"/>
+  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/b54521246d83a29ab7a394ac5c47e9f70d82b058/language.gif" alt="Language Animation" width="30"  />
   <strong> Languages </strong> 
 </h3> 
 
