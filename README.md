@@ -1,4 +1,8 @@
-<h2 align="center">🌟 Paloma Cardozo 🌟</h2> 
+<h2 align="center">
+  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/28d4e14ec9dc4b4abab8751d0e2e03749daab677/fireworks.gif" alt="Signature Animation" width="30" />
+  <strong> Paloma Cardozo </strong> 
+  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/28d4e14ec9dc4b4abab8751d0e2e03749daab677/fireworks.gif" alt="Signature Animation" width="30" />
+</h2>
 <h4 align="center">Web Development Learner | Legal & Data Professional in Tech</h4> 
 
 <p align="center">
