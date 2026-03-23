@@ -1,118 +1,109 @@
-<h2 align="center">
-  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/28d4e14ec9dc4b4abab8751d0e2e03749daab677/fireworks.gif" alt="Fireworks Animation" width="45"  />
-  <strong> Paloma Cardozo </strong> 
-  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/28d4e14ec9dc4b4abab8751d0e2e03749daab677/fireworks.gif" alt="Fireworks Animation" width="45"  />
-</h2>
-<h4 align="center">Web Development Learner | Legal & Data Professional in Tech</h4> 
+<div align="center">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/paloma-cardozo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://paloma-cardozo.github.io/dev-portfolio" target="_blank">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website Badge"/>
-  </a>
-  <a href="https://codepen.io/Paloma-Cardozo" target="_blank">
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen Badge"/>
-  </a>
-  <a href="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/e3e6ea6300bda725ff451a24c443ddac8210150d/MyCV.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20CV-6B8E23?style=for-the-badge&logo=readthedocs&logoColor=white" alt="CV Badge"/>
-  </a>
-</p>
+# PALOMA CARDOZO
+### Lawyer by training. Developer by choice. Researcher at heart.
+
+*Criminal judge turned full-stack developer.*
+*I bring 10 years of structured legal reasoning, risk analysis, and evidence evaluation to every line of code I write.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paloma-cardozo)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://paloma-cardozo.vercel.app)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Paloma-Cardozo)
+[![CV](https://img.shields.io/badge/View%20My%20CV-6B4C7A?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/e3e6ea6300bda725ff451a24c443ddac8210150d/MyCV.pdf)
+
+</div>
 
 ---
 
-<h3>
-  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/547801a0deaa599541f9190aa6920e09395a5043/blogger.gif" alt="Blogger Animation" width="30"  />
-  <strong> Welcome to my GitHub </strong> 
-</h3> 
+## Who I am
 
-I’m a lifelong learner moving from the world of law, compliance, and human rights into technology, where data, design, and ethics meet.
-I’m currently studying **Web Development at HackYourFuture** and **Data Analytics at ReDI School**, building digital skills to create tools that make information accessible, transparent, and meaningful.
+I'm a criminal lawyer who codes. For over a decade, I worked in Colombia's judiciary: first as a legal officer, then as a judge conducting criminal trials, evaluating complex evidence, and writing rulings with real consequences for real people.
 
----
+That work trains you to reason under pressure, spot gaps in logic, and make defensible decisions with incomplete data. Those are the same skills I bring to software.
 
-<h3>
-  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/b54521246d83a29ab7a394ac5c47e9f70d82b058/worker.gif" alt="Worker Animation" width="30"  />
-  <strong> What I’m working on </strong> 
-</h3>
+Since relocating to Denmark, I've built deliberately: front-end development → data analytics → now backend web development at **Hack Your Future**. I use AI daily as a working tool: prompting, evaluating outputs, integrating it into workflows, and understanding its limits. My cybersecurity studies in GRC, GDPR, and threat assessment add the risk-thinking layer that comes naturally from a legal background.
 
-- Designing small tools and visualizations that connect tech with real-world purpose  
-- Building accessible and ethical web projects using **HTML, CSS and JavaScript**
-- Strengthening my version control skills with **Git and GitHub**
-- Practicing **Python** to understand data, logic, and automation
-- Learning about **digital risk and cybersecurity principles**
-- Exploring fundamentals of **responsive design**
+> **I'm looking for roles at the intersection of law, data, and technology** where understanding compliance isn't separate from building the system, and where the person who can read a regulation is also the one writing the API.
 
 ---
 
-<h3>
-  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/b54521246d83a29ab7a394ac5c47e9f70d82b058/world-creativity-and-innovation-day.gif" alt="Creativity Animation" width="30"  />
-  <strong> What drives me </strong> 
-</h3> 
-<p><em>“Technology should serve people.”</em></p> 
+## 🗺️ My Learning Roadmap
 
-I’m passionate about connecting **data, design, and ethics**, and believe diverse perspectives create better technology.  
-Collaboration, empathy, and curiosity guide my learning journey every day.
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/69bc14f533a0ad7a57d7a691?variant=dark&roadmaps=cyber-security%2Cai-data-scientist%2Cbackend%2Cfull-stack" alt="roadmap.sh"/></a>
 
 ---
 
-<h3>
-  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/b54521246d83a29ab7a394ac5c47e9f70d82b058/success.gif" alt="Success Animation" width="30"  />
-  <strong> Goals </strong> 
-</h3> 
+## 🛠️ Tech Stack
 
-- Contribute to meaningful tech projects that combine trust, transparency, and creativity
-- Support teams and organizations in building secure, user-centered digital solutions
-- Keep growing in roles that merge technical insight with analytical and human perspectives
-- Share knowledge openly and learn from diverse, global communities
+**Web Development**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
----
+**Data & Analytics**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-<h3>
-  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/b54521246d83a29ab7a394ac5c47e9f70d82b058/experience.gif" alt="Experience Animation" width="30"  />
-  <strong> Background </strong> 
-</h3> 
+**Security & Compliance**
+![GDPR](https://img.shields.io/badge/GDPR-003366?style=flat-square&logo=eu&logoColor=white)
+![GRC](https://img.shields.io/badge/GRC-6B4C7A?style=flat-square&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 
-- 10+ years as a **legal and compliance professional**, specializing in risk assessment and ethical governance
-- Currently deepening skills in **Web Development** and **Data Analytics**  
-- Experienced in cross-cultural communication, data ethics, and social impact
-
----
-
-<h3>
-  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/b54521246d83a29ab7a394ac5c47e9f70d82b058/graphics-software.gif" alt="Software Animation" width="30"  />
-  <strong> Tech & Tools </strong> 
-</h3> 
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+**Tools**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-<h3>
-  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/b54521246d83a29ab7a394ac5c47e9f70d82b058/language.gif" alt="Language Animation" width="30"  />
-  <strong> Languages </strong> 
-</h3> 
+## 🚀 Projects
 
-- Spanish (native)
-- English & Portuguese (professional)
-- Danish (intermediate)
+**[Frog Hunter — Memory Card Game](https://froghunter.onrender.com/)**
+Full-stack JavaScript · Hack Your Future · 2025
+Browser-based memory card game with three difficulty levels, a countdown timer, and state-based win/loss logic. Deployed full-stack on Render.
+
+**Employee Insights — Data Analytics**
+ReDI School · Kaggle Dataset · 2025
+Cleaned and analyzed a large employee salary dataset. Built Power BI dashboards with KPI indicators; designed Python scripts for data transformation with a focus on responsible handling of sensitive data.
 
 ---
 
-<p align="center">
-  <img src="https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/589fccf0f618d2b4224d50d8494fafb3ae0a7319/chatbot.gif" alt="Signature Animation" width="100" /><br/>
-  <em>Exploring how code, data, and ethics can work together to make systems more human.</em> 
-</p>
+## 🎓 Currently Studying
+
+| Program | Institution | Year |
+|---|---|---|
+| Web Development (Backend) | Hack Your Future, Denmark | 2025 – Present |
+| Cybersecurity Fundamentals | ReDI School of Digital Integration | 2026 – Present |
+| Cybersecurity Foundations: GRC | LinkedIn Learning | 2026 |
+| Introduction to the Threat Landscape 3.0 | Fortinet Training Institute | 2025 |
+| Cybersecurity Fundamentals | IBM SkillsBuild | 2025 |
+| Learning GDPR | LinkedIn Learning | 2025 |
+| Data Analytics Program | ReDI School of Digital Integration | 2025 |
+
+---
+
+## ⚖️ Where I Come From
+
+**10+ years in Colombia's judiciary** Legal officer → Judge: conducting criminal trials, authoring rulings, and coordinating across prosecutors, defense attorneys, and public institutions with competing interests.
+
+**Since moving to Denmark (2023):** Support worker at Københavns Kommune, researcher at Transparency International (co-authored *Korruption i Danmark 2000–2024*), and Volunteer Project Coordinator at AXIS NGO.
+
+---
+
+## 🌐 Languages
+
+🇪🇸 Spanish (native) &nbsp;|&nbsp; 🇬🇧 English (fluent) &nbsp;|&nbsp; 🇧🇷 Portuguese (fluent) &nbsp;|&nbsp; 🇩🇰 Danish (PD3)
+
+---
+
+<div align="center">
+
+*"Technology should serve people, and the people who build it should understand the systems it operates in."*
+
+📍 Rødovre, Denmark &nbsp;·&nbsp; Open to opportunities in legal tech, data, and cybersecurity
+
+</div>
