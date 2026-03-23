@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paloma-cardozo)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://paloma-cardozo.vercel.app)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Paloma-Cardozo)
-[![CV](https://img.shields.io/badge/View%20My%20CV-6B4C7A?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/Paloma-Cardozo/Paloma-Cardozo/blob/e3e6ea6300bda725ff451a24c443ddac8210150d/PALOMA-CARDOZO - Legal&Tech 2026.pdf)
+[![CV](https://img.shields.io/badge/View%20My%20CV-6B4C7A?style=for-the-badge&logo=readthedocs&logoColor=white)](PALOMA-CARDOZO-Legal&Tech2026.pdf)
 
 </div>
 
