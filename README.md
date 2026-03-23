@@ -23,7 +23,9 @@ That work trains you to reason under pressure, spot gaps in logic, and make defe
 
 Since relocating to Denmark, I've built deliberately: front-end development → data analytics → now backend web development at **Hack Your Future**. I use AI daily as a working tool: prompting, evaluating outputs, integrating it into workflows, and understanding its limits. My cybersecurity studies in GRC, GDPR, and threat assessment add the risk-thinking layer that comes naturally from a legal background.
 
-> **I'm looking for roles at the intersection of law, data, and technology** where understanding compliance isn't separate from building the system, and where the person who can read a regulation is also the one writing the API.
+I won't pretend I know everything about tech. I'm still early in a vast field. But that's exactly the point: I'm not drifting in. I'm going wide and deep, across web development, data, and cybersecurity, with intention, because I believe **technology should serve people, and the people who build it should understand the systems it operates in.** That gap between those who understand and those who manage? I'm closing it, deliberately, one layer at a time.
+
+> **I'm looking for roles at the intersection of law, data, and technology**, where understanding compliance isn't separate from building the system, and where the person who can read a regulation is also the one writing the API.
 
 ---
 
@@ -102,8 +104,13 @@ Cleaned and analyzed a large employee salary dataset. Built Power BI dashboards 
 
 <div align="center">
 
-*"Technology should serve people, and the people who build it should understand the systems it operates in."*
-
 📍 Rødovre, Denmark &nbsp;·&nbsp; Open to opportunities in legal tech, data, and cybersecurity
+
+---
+ 
+*"Technology is dominated by two types of people: those who understand what they do not manage, and those who manage what they do not understand."*
+**— Archibald Putt**, *Putt's Law* (1981)
+ 
+*I'm working on being the exception.*
 
 </div>
