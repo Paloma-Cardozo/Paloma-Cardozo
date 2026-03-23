@@ -88,7 +88,7 @@ Cleaned and analyzed a large employee salary dataset. Built Power BI dashboards 
 
 ## ⚖️ Where I Come From
 
-**10+ years in Colombia's judiciary** Legal officer → Judge: conducting criminal trials, authoring rulings, and coordinating across prosecutors, defense attorneys, and public institutions with competing interests.
+**10+ years in Colombia's judiciary:** Legal officer → Judge: conducting criminal trials, authoring rulings, and coordinating across prosecutors, defense attorneys, and public institutions with competing interests.
 
 **Since moving to Denmark (2023):** Support worker at Københavns Kommune, researcher at Transparency International (co-authored *Korruption i Danmark 2000–2024*), and Volunteer Project Coordinator at AXIS NGO.
 
