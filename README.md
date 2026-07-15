@@ -9,7 +9,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paloma-cardozo)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://paloma-cardozo.vercel.app)
 [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Paloma-Cardozo)
-[![CV](https://img.shields.io/badge/View%20My%20CV-6B4C7A?style=for-the-badge&logo=readthedocs&logoColor=white)](PALOMA-CARDOZO-Legal&Tech2026.pdf)
+[![CV](https://img.shields.io/badge/View%20My%20CV-6B4C7A?style=for-the-badge&logo=readthedocs&logoColor=white)](PALOMA_CARDOZO_Legal&Tech_2026.pdf)
 
 </div>
 
@@ -21,7 +21,7 @@ I'm a criminal lawyer who codes. For over a decade, I worked in Colombia's judic
 
 That work trains you to reason under pressure, spot gaps in logic, and make defensible decisions with incomplete data. Those are the same skills I bring to software.
 
-Since relocating to Denmark, I've built deliberately: front-end development → data analytics → now backend web development at **Hack Your Future**. I use AI daily as a working tool: prompting, evaluating outputs, integrating it into workflows, and understanding its limits. My cybersecurity studies in GRC, GDPR, and threat assessment add the risk-thinking layer that comes naturally from a legal background.
+Since relocating to Denmark, I've built deliberately: front-end development → data analytics → backend web development, completing Hack Your Future's 9-month backend specialization and presenting my final project at Microsoft. I use AI daily as a working tool: prompting, evaluating outputs, integrating it into workflows, and understanding its limits. My cybersecurity studies in GRC, GDPR, and threat assessment add the risk-thinking layer that comes naturally from a legal background.
 
 I won't pretend I know everything about tech. I'm still early in a vast field. But that's exactly the point: I'm not drifting in. I'm going wide and deep, across web development, data, and cybersecurity, with intention, because I believe **technology should serve people, and the people who build it should understand the systems it operates in.** That gap between those who understand and those who manage? I'm closing it, deliberately, one layer at a time.
 
@@ -64,22 +64,38 @@ I won't pretend I know everything about tech. I'm still early in a vast field. B
 
 ## 🚀 Projects
 
-**[Frog Hunter — Memory Card Game](https://froghunter.onrender.com/)**
-Full-stack JavaScript · Hack Your Future · 2025
-Browser-based memory card game with three difficulty levels, a countdown timer, and state-based win/loss logic. Deployed full-stack on Render.
+**[Easy Bloom — Plant Care Platform](https://easybloom.onrender.com/)** *(Final Capstone Project)*
+PostgreSQL · Express.js · JWT · Knex · Hack Your Future · 2026
+Built with a team of four, presented at Microsoft. Owned backend authentication and security: user registration, bcrypt password hashing, JWT session management with 7-day token expiry, and rate limiting to prevent brute-force attacks. Designed the PostgreSQL schema with Knex migrations and full Swagger/OpenAPI documentation. Integrated the PlantBook API through a dedicated service layer.
 
-**Employee Insights — Data Analytics**
-ReDI School · Kaggle Dataset · 2025
-Cleaned and analyzed a large employee salary dataset. Built Power BI dashboards with KPI indicators; designed Python scripts for data transformation with a focus on responsible handling of sensitive data.
+**[Events Startup — Ticketing Platform]**
+PostgreSQL · Express.js · JWT · Hack Your Future · 2026
+Solo project: built a complete ticketing platform API from a Product Requirements Document through deployment. Designed the PostgreSQL schema with ERD, implemented JWT authentication and transactional checkout logic, and delivered comprehensive Swagger/OpenAPI documentation. Managed the full build cycle end-to-end using weekly Trello backlogs and iterative mentor review.
+
+**[Brewed With Love — Full-Stack Coffee Shop](https://shopbrewedwithlove.onrender.com/)**
+TypeScript · Express.js · React · Hack Your Future · 2026
+Team project building a shopping cart API from design to deployment. Defined the data model, endpoints, and TypeScript types for the team. Implemented concurrent write protection using a mutex to prevent data corruption under simultaneous requests. Connected a React frontend to the live backend, deployed independently on Render.
+
+**[AI & the Judiciary — Research Project](https://ai-judicial-system-colombia.vercel.app/)**
+Independent Research · 2026
+Researched and published a structured analysis of Colombia's first Constitutional Court ruling on AI use in judicial proceedings (T-323/2024), synthesizing frameworks from UNESCO, the Council of Europe CEPEJ guidelines, and the EU AI Act. Used generative AI tools throughout the research process to cross-reference legal frameworks and accelerate synthesis.
+
+**[Frog Hunter — Memory Card Game](https://froghunter.onrender.com/)**
+Full-Stack JavaScript · Hack Your Future · 2025
+Browser-based memory card game with three difficulty levels, a countdown timer, and state-based win/loss logic. Built and deployed as part of a team working across defined sprint cycles with Trello for backlog management.
+
+**[Employee Insights — Data Analytics]**
+Python · Power BI · ReDI School · 2025
+Cleaned and analyzed a raw employee salary dataset. Built Power BI dashboards with KPI indicators and Python scripts (pandas, matplotlib) for data transformation, with attention to responsible handling of sensitive data.
 
 ---
 
-## 🎓 Currently Studying
+## 🎓 Education & Training
 
 | Program | Institution | Year |
 |---|---|---|
-| Web Development (Backend) | Hack Your Future, Denmark | 2025 – Present |
-| Cybersecurity Fundamentals | ReDI School of Digital Integration | 2026 – Present |
+| Web Development (Backend) | Hack Your Future, Denmark | 2026 |
+| Cybersecurity Fundamentals | ReDI School of Digital Integration | 2026 |
 | Cybersecurity Foundations: GRC | LinkedIn Learning | 2026 |
 | Introduction to the Threat Landscape 3.0 | Fortinet Training Institute | 2025 |
 | Cybersecurity Fundamentals | IBM SkillsBuild | 2025 |
