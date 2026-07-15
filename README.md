@@ -96,11 +96,14 @@ Cleaned and analyzed a raw employee salary dataset. Built Power BI dashboards wi
 |---|---|---|
 | Web Development (Backend) | Hack Your Future, Denmark | 2026 |
 | Cybersecurity Fundamentals | ReDI School of Digital Integration | 2026 |
-| Cybersecurity Foundations: GRC | LinkedIn Learning | 2026 |
+| Data Analytics | ReDI School of Digital Integration | 2025 |
+| Front-End Development | ReDI School of Digital Integration | 2025 |
 | Introduction to the Threat Landscape 3.0 | Fortinet Training Institute | 2025 |
 | Cybersecurity Fundamentals | IBM SkillsBuild | 2025 |
 | Learning GDPR | LinkedIn Learning | 2025 |
-| Data Analytics Program | ReDI School of Digital Integration | 2025 |
+| Master of Criminal and Criminological Sciences | Universidad Externado de Colombia | 2017 |
+| Bachelor of Laws (LL.B.) | Universidad de Ibagué | 2013 |
+| Research Semester in Environmental Law | Universidade de Aracruz | 2011 |
 
 ---
 
