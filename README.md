@@ -68,7 +68,7 @@ I won't pretend I know everything about tech. I'm still early in a vast field. B
 PostgreSQL · Express.js · JWT · Knex · Hack Your Future · 2026
 Built with a team of four, presented at Microsoft. Owned backend authentication and security: user registration, bcrypt password hashing, JWT session management with 7-day token expiry, and rate limiting to prevent brute-force attacks. Designed the PostgreSQL schema with Knex migrations and full Swagger/OpenAPI documentation. Integrated the PlantBook API through a dedicated service layer.
 
-**[Events Startup — Ticketing Platform]**
+**Events Startup — Ticketing Platform**
 PostgreSQL · Express.js · JWT · Hack Your Future · 2026
 Solo project: built a complete ticketing platform API from a Product Requirements Document through deployment. Designed the PostgreSQL schema with ERD, implemented JWT authentication and transactional checkout logic, and delivered comprehensive Swagger/OpenAPI documentation. Managed the full build cycle end-to-end using weekly Trello backlogs and iterative mentor review.
 
@@ -84,7 +84,7 @@ Researched and published a structured analysis of Colombia's first Constitutiona
 Full-Stack JavaScript · Hack Your Future · 2025
 Browser-based memory card game with three difficulty levels, a countdown timer, and state-based win/loss logic. Built and deployed as part of a team working across defined sprint cycles with Trello for backlog management.
 
-**[Employee Insights — Data Analytics]**
+**Employee Insights — Data Analytics**
 Python · Power BI · ReDI School · 2025
 Cleaned and analyzed a raw employee salary dataset. Built Power BI dashboards with KPI indicators and Python scripts (pandas, matplotlib) for data transformation, with attention to responsible handling of sensitive data.
 
