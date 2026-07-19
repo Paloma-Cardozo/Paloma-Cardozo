@@ -31,7 +31,7 @@ I won't pretend I know everything about tech. I'm still early in a vast field. B
 
 ## 🗺️ My Learning Roadmap
 
-<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/69bc14f533a0ad7a57d7a691?variant=dark&roadmaps=cyber-security%2Cai-data-scientist%2Cbackend%2Cfull-stack" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/69bc14f533a0ad7a57d7a691?variant=light&roadmaps=backend" alt="roadmap.sh"/></a>
 
 ---
 
